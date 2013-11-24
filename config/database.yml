@@ -19,8 +19,8 @@ test:
   timeout: 5000
 
 production:
-  adapter: pg
+  adapter: postgresql
   database: bloggin_production
-  user: webadmin
+  username: webadmin
   password: vqyGfyL33V
   host: postgres-env-2395048.jelastic.elastx.net
