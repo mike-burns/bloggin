@@ -21,3 +21,6 @@ test:
 production:
   adapter: pg
   database: bloggin_production
+  user: webadmin
+  password: vtUPO3uvvH
+  host: postgres-env-2302970.jelastic.elastx.net
